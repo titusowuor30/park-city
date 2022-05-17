@@ -1,0 +1,7 @@
+{
+  "name": "ParkCity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
